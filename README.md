@@ -128,7 +128,7 @@ zsum.test(
 Buatlah kesimpulan berdasarkan p-value yang dihasilkan!
 </li>
 
-> Nilai *$p\text{-value}$* yang dihasilkan lebih dari *significance level* $(1 > 0.05)$, sehingga dapat disimpulkan terima $H_0$, yang menyatakan bahwa mobil dikemudikan rata-rata kurang dari atau sama dengan $25000$ kilometer per tahun.
+> Nilai $p\text{-value}$ yang dihasilkan lebih dari significance level $(1 > 0.05)$, sehingga dapat disimpulkan terima $H_0$, yang menyatakan bahwa mobil dikemudikan rata-rata kurang dari atau sama dengan $25000$ kilometer per tahun.
 
 </ol>
 
@@ -223,7 +223,7 @@ print(paste("nilai kritikal kanan: ", p_r))
 Keputusan
 </li>
 
-> Nilai $t$ berada pada rentang nilai kritikal dan *$p$-value* lebih dari *significance level* $(p\text{-value} > \alpha)$, maka gagal menolak $H_0$.
+> Nilai $t$ berada pada rentang nilai kritikal dan $p\text{-value}$ lebih dari significance level $(p\text{-value} > \alpha)$, maka gagal menolak $H_0$.
 
 <li>
 Kesimpulan
