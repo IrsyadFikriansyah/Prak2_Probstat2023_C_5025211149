@@ -128,7 +128,7 @@ zsum.test(
 Buatlah kesimpulan berdasarkan p-value yang dihasilkan!
 </li>
 
-> Nilai *$p$-value* yang dihasilkan lebih dari *significance level* $(1 > 0.05)$, sehingga dapat disimpulkan terima $H_0$, yang menyatakan bahwa mobil dikemudikan rata-rata kurang dari atau sama dengan 25000 kilometer per tahun.
+> Nilai *$p\text{-value}$* yang dihasilkan lebih dari *significance level* $(1 > 0.05)$, sehingga dapat disimpulkan terima $H_0$, yang menyatakan bahwa mobil dikemudikan rata-rata kurang dari atau sama dengan $25000$ kilometer per tahun.
 
 </ol>
 
